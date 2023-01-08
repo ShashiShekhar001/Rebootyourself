@@ -1,0 +1,20 @@
+.need-card{
+    text-align: centre;
+    padding: 50px;
+    border:0.5rem solid rgb(215, 214, 214) ;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid rgb(202, 200, 200);
+}
+.need-img{
+    margin: 30px;
+    max-width: 20%;
+}
+.head-5{
+    font-weight: 800;
+}
+.para-8{
+    font-weight: lighter;
+    font-size: 0.7rem;
+    
+}

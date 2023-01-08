@@ -1,0 +1,15 @@
+#rate {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .star-rating{
+    display: flex;
+  }
+  .on {
+    color:orangered;
+  }
+  .off {
+    color: #ccc;
+  }

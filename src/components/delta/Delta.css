@@ -1,0 +1,13 @@
+.container-learn{
+    background-color: rgb(34, 13, 74);
+    margin-top: 60px;
+    text-align: center;
+    padding: 45px;
+    color: white;
+}
+.learn-list{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom:50px;
+    justify-content: space-evenly;
+}

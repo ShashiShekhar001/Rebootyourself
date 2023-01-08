@@ -1,0 +1,15 @@
+.container-reason{
+    margin: 50px;
+    text-align: center;
+}
+.head-6{
+  font-weight: 600;
+  color: rgb(4, 4, 71);
+}
+.para-9{
+    margin-left:400px; 
+    color: rgb(4, 4, 71);
+    line-height: 1.5rem;
+    width: 500px;
+    font-size: 0.8rem;
+}

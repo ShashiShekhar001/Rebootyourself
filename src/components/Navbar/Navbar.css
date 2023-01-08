@@ -1,0 +1,13 @@
+.custom-btn {
+    background: rgb(27, 14, 87);
+    color: white;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    height: 40px;
+    padding: 5px 10px;
+    width: 100px;
+    margin-right: 50px;
+  }
+  .navbar{
+    padding-left: 40px;
+  }
