@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rebootyourself/static/css/main.2ceab06f.css",
+    "main.js": "/Rebootyourself/static/js/main.97e2f49a.js",
+    "index.html": "/Rebootyourself/index.html",
+    "main.2ceab06f.css.map": "/Rebootyourself/static/css/main.2ceab06f.css.map",
+    "main.97e2f49a.js.map": "/Rebootyourself/static/js/main.97e2f49a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ceab06f.css",
+    "static/js/main.97e2f49a.js"
+  ]
+}
